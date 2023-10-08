@@ -1,0 +1,1 @@
+curl -H "X-Checkly-Account: c4524b68-555d-4e5b-bf26-d9dbcc07653d" -H "Authorization: Bearer my_token" https://api.checklyhq.com/v1/checks
